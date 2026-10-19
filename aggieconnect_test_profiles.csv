@@ -1,0 +1,13 @@
+profile_id,profile_text,relevant_event_ids
+P01,"I'm a computer science major and I want to learn about new tech like AI, robotics and quantum computing.",E11;E20;E28;E29;E30
+P02,"I need a job or internship and want to meet employers and work on my professional skills.",E10;E22;E38
+P03,"I want to study in another country or do something international.",E07;E08;E22;E30
+P04,"I love going to games and cheering on the Aggies.",E53;E54;E55;E56;E57;E58;E59;E60;E61;E62;E63;E64;E65;E66;E72
+P05,"I'm into music, dance, fashion and live performances.",E01;E44;E70;E74;E77;E78
+P06,"I'm thinking about grad school and want help with research, writing papers and getting published.",E02;E03;E04;E06;E23;E26;E33;E34;E43
+P07,"I want to be a doctor or work in healthcare someday.",E09;E15;E16;E32
+P08,"I'm stressed about money and want to get better at budgeting and paying for school.",E25;E33;E41
+P09,"I care about social justice, Black history and culture, and community issues.",E12;E17;E42;E71
+P10,"I'm a senior getting ready to graduate and I want to celebrate homecoming with my friends.",E21;E48;E49;E67;E68;E69;E70;E72;E74;E75;E76;E77;E78
+P11,"I'm interested in farming, animals and agriculture.",E18;E24;E51
+P12,"I like running, working out and staying healthy.",E50

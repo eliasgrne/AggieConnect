@@ -1,0 +1,9 @@
+# Tested with Python 3.13.16 on CPU (no GPU needed).
+# run_eval.py writes the versions actually used to results/run_info.json.
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.1
+onnxruntime==1.29.0
+tokenizers==0.23.3
+huggingface_hub==2.2.0
+matplotlib==3.11.2
